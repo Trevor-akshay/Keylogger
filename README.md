@@ -8,7 +8,11 @@ Build:
 
 For the first download/clone of this repo,
 
-Import the Keylogger folder as a Java project using your IDE.
-If the IDE dows not detect the lib folder, then add its contents as external jars.
-Run as Java application.
+1.Import the Keylogger folder as a Java project using your IDE.	  
+
+2.If the IDE dows not detect the lib folder, then add its contents as external jars.
+
+3.Run as Java application.
+
+
 Enjoy logging :)
