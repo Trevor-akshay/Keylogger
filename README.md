@@ -12,7 +12,7 @@ For the first download/clone of this repo,
 
       1.Import the Keylogger folder as a Java project using your IDE.	  
 
-      2.If the IDE dows not detect the lib folder, then add its contents as external jars.
+      2.If the IDE does not detect the lib folder, then add its contents as external jars.
       
       3.Edit the sender.java to your specified email and password and allow less secure apps access in google accounts
 
